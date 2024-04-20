@@ -1,0 +1,22 @@
+1	Hey buddy, I think you've got the wrong door;
+2	The leather club's two blocks down.
+3	F*** you.
+4	Nah, f*** you, leather-man.
+5	Maybe you and I should settle it right here on the ring, if you think you're that tough.
+6	Oh yeah?
+7	Yeah, you gonna wrestle or what?
+8	I'll kick your ass!
+9	Get outta the way man!
+10	Let's go!
+11	Why don't you get out of that leather stuff?
+12	I'll strip down out of this, and we'll settle it right here in the ring.
+13	What do you say?
+14	Yeah?
+15	No problem, buddy.
+16	You got it.
+17	Get outta that, uh, jabroni outfit.
+18	Yeah, smart-ass.
+19	I'll show you who's boss of this gym.
+20	*Locker slams*
+21	COME ON!
+22	LET'S GO!
